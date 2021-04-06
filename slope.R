@@ -20,7 +20,7 @@ p <- function(){
     xlab("Highest and lowest points") +
     ylab("Height")
   
-  ggsave(filename = "./eaTerrain.png")
+  ggsave(filename = "/home/collins/Documents/dev/mine/lab/r/30-day-challenge/eaTerrain.png")
 }
 
 p()
